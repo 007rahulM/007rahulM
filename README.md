@@ -95,6 +95,7 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
 ![Activity Tracker](https://github-readme-activity-graph.vercel.app/graph?username=007rahulM&bg_color=1D2671&color=E96443&line=E96443&point=ffffff&area=true&hide_border=true)
 
+[![Download CV](https://readme-buttons.vercel.app/api/index?text=Download%20CV&color1=E96443&color2=904E95)](https://github.com/007rahulM/readme-buttons/blob/main/Rahul-resume.pdf)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E96443,100:904E95&height=130&section=footer)
 
@@ -107,6 +108,5 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 💼 **LinkedIn:** <strong>[linkedin.com/in/rahul-m007](https://www.linkedin.com/in/rahul-m007)</strong>  
 
 ---
-[![Download CV](https://readme-buttons.vercel.app/api/index?text=Download%20CV&color1=E96443&color2=904E95)](https://github.com/007rahulM/.../raw/main/Rahul-resume.pdf)
 <div align="center">
 </div>
