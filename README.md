@@ -10,7 +10,6 @@ With expertise in full-stack development and a passion for AI-powered integratio
 Currently advancing <strong style="color:#E96443;">Axon Hire</strong>, a live job portal offering smarter recruitment solutions while exploring advanced AI-driven functionalities.
 </p>
 
-![Button](https://readme-buttons.vercel.app/api/index?text=Success&color=2ecc71)
 </div>
 
 ---
@@ -108,5 +107,6 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 💼 **LinkedIn:** <strong>[linkedin.com/in/rahul-m007](https://www.linkedin.com/in/rahul-m007)</strong>  
 
 ---
+[![Download CV](https://readme-buttons.vercel.app/api/index?text=Download%20CV&color1=E96443&color2=904E95)](https://github.com/007rahulM/.../raw/main/Rahul-resume.pdf)
 <div align="center">
 </div>
