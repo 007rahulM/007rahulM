@@ -14,7 +14,7 @@ Currently advancing <strong style="color:#E96443;">Axon Hire</strong>, a live jo
 
 ---
 
-## 🚀 Developer Overview
+##  Developer Overview
 
 ```yaml
 role: Full-Stack Developer
@@ -34,15 +34,15 @@ status: Open to opportunities!
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 <div align="center">
 
 <table align="center" width="80%" style="border-collapse:collapse;background-color:#404040;border-radius:10px;">
 <tr>
-<td style="padding:15px; text-align:center; color:white; font-size:18px;">💾 <strong>Languages</strong><br>C++ | Python</td>
-<td style="padding:15px; text-align:center; color:white; font-size:18px;">💻 <strong>Frameworks</strong><br>React | Node.js | Express.js | MongoDB</td>
-<td style="padding:15px; text-align:center; color:white; font-size:18px;">🛠️ <strong>Tools</strong><br>Cloudinary | REST APIs | TailwindCSS</td>
+<td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Languages</strong><br>C++ | Python</td>
+<td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Frameworks</strong><br>React | Node.js | Express.js | MongoDB</td>
+<td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Tools</strong><br>Cloudinary | REST APIs | TailwindCSS</td>
 </tr>
 </table>
 
@@ -50,23 +50,22 @@ status: Open to opportunities!
 
 ---
 
-## 🌟 Featured Project: Axon Hire
+##  Featured Project: Axon Hire
 
 Axon Hire simplifies recruitment workflows through AI-driven insights and user-friendly dashboards. Phase 1 is completed and fully operational, with Phase 2 exploring advanced scoring features.
 
 ---
 
 ### **BUILD PROGRESS**  
-#### **✅ Phase 1 Complete:**
+#### ** Phase 1 Complete:**
 -  **Live Website**: Functional platform hosted on Vercel & Render.
 -  **Resume Upload System**: Securely stores resumes in Cloudinary.
 -  **Role-Based Permissions**: Recruiters post jobs, candidates apply seamlessly.
 -  **Dynamic Dashboards**: Recruiters manage applications and interact with resumes.
 -  **AI Integration**: Basic AI-generated interview questions available.
 
-#### **🔄 Phase 2 in Progress:**
+#### ** Phase 2 in Progress:**
 - **AI Resume Analyzer**: AI-based scoring system for uploaded resumes.
-- **Bug Fix**: Rectifying `pdf-parse` text extraction issues for better resume processing.
 
   Despite ongoing developments, **Axon Hire** is fully operational for recruitment workflows.
 
@@ -74,7 +73,7 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
 ---
 
-## 📂 Other Projects
+##  Other Projects
 
 <div align="center">
 
@@ -101,7 +100,7 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
 ---
 
-## 💬 Contact Me 
+##  Contact Me 
 
 📧 **Email:** <strong>[rk096327945@gmail.com](mailto:rk096327945@gmail.com)</strong><br>  
 🌐 **GitHub:** <strong>[github.com/007rahulM](https://github.com/007rahulM)</strong><br>  
