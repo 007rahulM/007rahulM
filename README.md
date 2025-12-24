@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=230&section=header&text=Rahul%20M&fontSize=65&fontAlignY=60&fontColor=FFF)
 
-[![LeetCode Stats](https://readme-buttons.vercel.app/api/leetcode?username=rahulm2_0_0_4&bg=0f172a&text=ebebeb)](https://leetcode.com/rahulm2_0_0_4)
-
 ---
 
 <h2 style="font-family:'Arial'; color:#E96443;">Crafting Scalable Solutions with Purpose</h2>
