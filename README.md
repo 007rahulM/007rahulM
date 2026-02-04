@@ -69,9 +69,10 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
   Despite ongoing developments, **Axon Hire** is fully operational for recruitment workflows.
 
-<div align="center">
+<div align="center", gap="10px">
   
-🔗 **[![LIVE DEMO](https://dev-badge-phi.vercel.app/api/index?text=Live%20Demo&color1=9f0909&color2=1a44c1)](https://axon-hire-complete-mvp.vercel.app/)**
+**[![LIVE DEMO](https://dev-badge-phi.vercel.app/api/index?text=Live%20Demo&color1=9f0909&color2=1a44c1)](https://axon-hire-complete-mvp.vercel.app/)**
+
 **[![SOURCE CODE](https://dev-badge-phi.vercel.app/api/index?text=SOURCE%20CODE&color1=34baf4&color2=061e65)](https://github.com/007rahulM/Axon_hire)**  
 </div>
 
