@@ -69,7 +69,11 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
   Despite ongoing developments, **Axon Hire** is fully operational for recruitment workflows.
 
-🔗 **[LIVE DEMO](https://axon-hire.vercel.app)** • **[SOURCE CODE](https://github.com/007rahulM/Axon_hire)**  
+<div align="center">
+  
+🔗 **[![LIVE DEMO](https://dev-badge-phi.vercel.app/api/index?text=Live%20Demo&color1=9f0909&color2=1a44c1)](https://axon-hire-complete-mvp.vercel.app/)**
+**[![SOURCE CODE](https://dev-badge-phi.vercel.app/api/index?text=SOURCE%20CODE&color1=34baf4&color2=061e65)](https://github.com/007rahulM/Axon_hire)**  
+</div>
 
 ---
 
@@ -93,8 +97,10 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 ---
 
 ![Activity Tracker](https://github-readme-activity-graph.vercel.app/graph?username=007rahulM&bg_color=1D2671&color=E96443&line=E96443&point=ffffff&area=true&hide_border=true)
-
+<div align="center">
+  
 [![View Resume](https://readme-buttons.vercel.app/api/index?text=View%20Resume&color1=c70a49&color2=275abe)](https://1drv.ms/b/c/c49f259cbfc8d501/IQAmqWhaphR9RbwQ6tp2xZIlAeb0Fi4H4BU9_bBW5cw6iEU?e=RaKYHk)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E96443,100:904E95&height=130&section=footer)
 
