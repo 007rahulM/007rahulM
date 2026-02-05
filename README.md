@@ -101,6 +101,8 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 <div align="center">
 
 [![View CV](https://dev-badge-phi.vercel.app/api/index?text=View%20CV&color1=000000&color2=aeaeb7)](https://1drv.ms/b/c/c49f259cbfc8d501/IQAeLtBJJg2uQ6M3wuYMOV1tAVzYZmBRoQfaCrxgqdlNKCY?e=Z3hGt4)
+
+[![LeetCode Stats](https://dev-badge-phi.vercel.app/api/leetcode?username=rahulm2_0_0_4&bg=606571&text=d1d8e1)](https://leetcode.com/rahulm2_0_0_4)
   
 
 </div>
