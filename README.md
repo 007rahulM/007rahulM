@@ -99,6 +99,8 @@ Axon Hire simplifies recruitment workflows through AI-driven insights and user-f
 
 ![Activity Tracker](https://github-readme-activity-graph.vercel.app/graph?username=007rahulM&bg_color=1D2671&color=E96443&line=E96443&point=ffffff&area=true&hide_border=true)
 <div align="center">
+
+[![View CV](https://dev-badge-phi.vercel.app/api/index?text=View%20CV&color1=000000&color2=aeaeb7)](https://1drv.ms/b/c/c49f259cbfc8d501/IQAeLtBJJg2uQ6M3wuYMOV1tAVzYZmBRoQfaCrxgqdlNKCY?e=Z3hGt4)
   
 
 </div>
