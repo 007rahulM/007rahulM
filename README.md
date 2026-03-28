@@ -40,7 +40,7 @@ status: Open to opportunities!
 
 <table align="center" width="80%" style="border-collapse:collapse;background-color:#404040;border-radius:10px;">
 <tr>
-<td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Languages</strong><br>C++ | Python</td>
+<td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Languages</strong><br> C++ | Python | JavaScript </td>
 <td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Frameworks</strong><br>React | Node.js | Express.js | MongoDB</td>
 <td style="padding:15px; text-align:center; color:white; font-size:18px;"> <strong>Tools</strong><br>Cloudinary | REST APIs | TailwindCSS</td>
 </tr>
