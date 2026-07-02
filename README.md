@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-ccf7f67e-29f2-4d8e-8b5f-00b5f8f4b7b5.gif" width="100%" />
 
-# Rahul 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=2800&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=Hi+I%27m+Rahul;Aspiring+Software+Engineer;Backend-Focused+Full-Stack+Developer;Building+clean+%26+scalable+web+apps" alt="Typing SVG" />
 
 ### Aspiring Software Engineer | Backend-Focused Full-Stack Developer
 
@@ -12,7 +12,7 @@ I build scalable, real-world web applications with clean architecture, practical
 
 <p>
   <a href="mailto:rk096327945@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let%27s%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rahul-m007">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
